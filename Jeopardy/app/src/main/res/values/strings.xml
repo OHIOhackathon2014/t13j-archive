@@ -34,5 +34,36 @@
     <string name="button28">Q28</string>
     <string name="button29">Q29</string>
     <string name="button30">Q30</string>
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="question5">Question 5</string>
+    <string name="question6">Question 6</string>
+    <string name="question7">Question 7</string>
+    <string name="question8">Question 8</string>
+    <string name="question9">Question 9</string>
+    <string name="question10">Question 10</string>
+    <string name="question11">Question 11</string>
+    <string name="question12">Question 12</string>
+    <string name="question13">Question 13</string>
+    <string name="question14">Question 14</string>
+    <string name="question15">Question 15</string>
+    <string name="question16">Question 16</string>
+    <string name="question17">Question 17</string>
+    <string name="question18">Question 18</string>
+    <string name="question19">Question 19</string>
+    <string name="question20">Question 20</string>
+    <string name="question21">Question 21</string>
+    <string name="question22">Question 22</string>
+    <string name="question23">Question 23</string>
+    <string name="question24">Question 24</string>
+    <string name="question25">Question 25</string>
+    <string name="question26">Question 26</string>
+    <string name="question27">Question 27</string>
+    <string name="question28">Question 28</string>
+    <string name="question29">Question 29</string>
+    <string name="question30">Question 30</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
 
 </resources>
