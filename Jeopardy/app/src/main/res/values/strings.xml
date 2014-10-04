@@ -2,7 +2,37 @@
 <resources>
 
     <string name="app_name">Jeopardy</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Welcome to Jeopardy!\n</string>
     <string name="action_settings">Settings</string>
+    <string name="button1">Q1</string>
+    <string name="button2">Q2</string>
+    <string name="button3">Q3</string>
+    <string name="button4">Q4</string>
+    <string name="button5">Q5</string>
+    <string name="button6">Q6</string>
+    <string name="button7">Q7</string>
+    <string name="button8">Q8</string>
+    <string name="button9">Q9</string>
+    <string name="button10">Q10</string>
+    <string name="button11">Q11</string>
+    <string name="button12">Q12</string>
+    <string name="button13">Q13</string>
+    <string name="button14">Q14</string>
+    <string name="button15">Q15</string>
+    <string name="button16">Q16</string>
+    <string name="button17">Q17</string>
+    <string name="button18">Q18</string>
+    <string name="button19">Q19</string>
+    <string name="button20">Q20</string>
+    <string name="button21">Q21</string>
+    <string name="button22">Q22</string>
+    <string name="button23">Q23</string>
+    <string name="button24">Q24</string>
+    <string name="button25">Q25</string>
+    <string name="button26">Q26</string>
+    <string name="button27">Q27</string>
+    <string name="button28">Q28</string>
+    <string name="button29">Q29</string>
+    <string name="button30">Q30</string>
 
 </resources>
